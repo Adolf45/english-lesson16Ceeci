@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img-banner{
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.img-footer{
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.img-lesson{
+    width: 50%;
+    height: 400px;
+    display: block;
+    margin: 10px auto;
+}
+
